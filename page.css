@@ -1,0 +1,22 @@
+#circle {
+	height: 235px;
+	width: 235px;
+	border-left-color: #87D0C2 !important;
+	border-right-color: #FFF !important;
+	border-top-color: #FFF !important;
+	border-bottom-color: #FFF !important;
+	border-width: 8px !important;
+	transform: rotate(45deg);
+}
+
+#halfcircle {
+	border-left-color: #14A388 !important;
+	border-right-color: #425B77 !important;
+	border-top-color: #425B77 !important;
+	border-bottom-color: #13BC9C !important;
+	border-width: 15px !important;
+}
+
+#label {
+	transform: rotate(-45deg);
+}
